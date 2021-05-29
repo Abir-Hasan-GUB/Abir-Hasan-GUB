@@ -1,25 +1,11 @@
-### Hi there 👋
-
-<!--
-**Abir-Hasan-GUB/Abir-Hasan-GUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-code### Hi there, I'm Abir -  [Abir][website] 👋
+### Hi there I'm Abir -  [Abir][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Update Self Skill]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Updating Self Skill!
+- 🌱 I’m currently learning Advance Javascript 🤣
 - 🥅 2021 Goals: Learn TypeScript, Next.js, Vue, PHP 😍
+- 💬 Ask me about anithings on JavaScript
+- 📫 How to reach me: Contact with social media
 - ⚡ Fun fact: I love to walk at the river bank !
 
 ### Connect with me:
