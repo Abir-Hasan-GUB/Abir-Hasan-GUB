@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working on Updating Self Skill!
 - 🌱 I’m currently learning Advance Javascript 🤣
-- 🥅 2021 Goals: Learn TypeScript, Next.js, Vue, PHP 😍
+- 🥅 2022 Goals: Learn Advance TypeScript, Next.js, PHP, WordPress 😍
 - 💬 Ask me about anithings on JavaScript
 - 📫 How to reach me: Contact with social media
 - ⚡ Fun fact: I love to walk at the river bank !
