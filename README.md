@@ -1,9 +1,9 @@
 ### Hi there I'm Abir -  [Abir][website] 👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍😍 JavaScript & PHP Lover 😍😍!
 - 🔭 I’m currently working on Updating Self Skill!
 - 🌱 I’m currently learning Advance Javascript 🤣
-- 🥅 2022 Goals: Learn Advance TypeScript, Next.js, PHP, WordPress 😍
+- 🥅 2023 Goals: Learn Advance TypeScript, Next.js, PHP, WordPress 😍
 - 💬 Ask me about anithings on JavaScript
 - 📫 How to reach me: Contact with social media
 - ⚡ Fun fact: I love to walk at the river bank !
