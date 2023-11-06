@@ -1,12 +1,12 @@
 ### Hi there I'm Abir -  [Abir][website] 👋
 
 ## I'm a 😍😍 JavaScript & PHP Lover 😍😍!
-- 🔭 I’m currently working on Updating Self Skill!
-- 🌱 I’m currently learning Advance Javascript 🤣
+- 🔭 I’m working on a Software Engineer Role and Updating Self Skills Continuesly!
+- 🌱 I’m currently learning Advance PHP 🤣
 - 🥅 2023 Goals: Learn Advance TypeScript, Next.js, PHP, WordPress 😍
-- 💬 Ask me about anithings on JavaScript
+- 💬 Ask me about things on JavaScript & PHP
 - 📫 How to reach me: Contact with social media
-- ⚡ Fun fact: I love to walk at the river bank !
+- ⚡ Fun fact: I love to walk at the river bank!
 
 ### Connect with me:
 
@@ -42,12 +42,8 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Hasan-GUB&card_width=550)](https://github.com/Abir-Hasan-GUB/Abir-Hasan-GUB)
 
 <!-- [programming]: https://www.programming-hero.com/ -->
-[website]: https://portfolio-of-abir.netlify.app/
-[twitter]: https://portfolio-of-abir.netlify.app/
-[youtube]:  https://portfolio-of-abir.netlify.app/
+[website]: https://www.devabir.xyz/
+[twitter]: https://www.devabir.xyz/
+[youtube]:  https://www.devabir.xyz/
 [instagram]: https://www.instagram.com/abir_hasan_47/
 [linkedin]: https://www.linkedin.com/in/abir2247/
-[webdevplaylist]: https://portfolio-of-abir.netlify.app/
-[jsplaylist]: https://portfolio-of-abir.netlify.app/
-[cssplaylist]: https://portfolio-of-abir.netlify.app/
-[reactplaylist]: https://portfolio-of-abir.netlify.app/
