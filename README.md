@@ -69,31 +69,7 @@ I specialize in **Laravel, React.js, Vue.js, Next.js, Livewire, and WordPress** 
 
 ## 📌 Pinned Projects  
 
-### 🔹 Project 1 – SaaS Management System  
-A complete SaaS platform with role-based authentication, subscription plans, and user dashboards.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=google-chrome)](https://your-live-demo-link.com)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=flat&logo=github)](https://github.com/your-repo-link)  
-
----
-
-### 🔹 Project 2 – E-Commerce Web App  
-An e-commerce application with product management, cart, checkout, and payment gateway integration.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=google-chrome)](https://your-live-demo-link.com)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=flat&logo=github)](https://github.com/your-repo-link)  
-
----
-
-### 🔹 Project 3 – Portfolio Website (WordPress + Custom Theme)  
-A fully customizable portfolio site built with WordPress, Elementor, and custom theme development.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=google-chrome)](https://your-live-demo-link.com)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=flat&logo=github)](https://github.com/your-repo-link)  
-
----
-
-### 🔹 Project 4 – Task Manager App (React + Laravel API)  
-A productivity web app for managing daily tasks, with authentication, CRUD, and API integration.  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=google-chrome)](https://your-live-demo-link.com)  
-[![GitHub](https://img.shields.io/badge/Code-Repository-black?style=flat&logo=github)](https://github.com/your-repo-link)  
+## Will Add soon :)
 
 ---
 
